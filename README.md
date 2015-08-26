@@ -24,6 +24,10 @@ based on [Browserify](http://browserify.org/) and
 React's JSX syntax into standard JavaScript with
 [Reactify](https://github.com/andreypopp/reactify).
 
-After starting the watcher, you can open `index.html` in your browser to
+Then fire up a simple web server at the root directory:
+
+`http-server`
+
+After starting the watcher, you can open `http://localhost:8080` in your browser to
 open the app.
 
